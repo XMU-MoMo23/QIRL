@@ -11,3 +11,5 @@ The ISI module acts as a discriminator to identify whether a QI pair is relevant
 The blue dashed line and red dashed line indicate the best overall accuracies on the VQA-CPv2 test set and VQA-v2 validation set, respectively.
 ## Paper
 [arXiv Paper](https://arxiv.org/abs/2504.03337)
+## Citation
+Citation information will be provided upon publication.
